@@ -130,7 +130,7 @@ body {
 .seccion-inicio {
   padding: 120px 20px 60px; /* espacio extra arriba por el nav */
 
-  background-color: #ffffff;
+  background-color: black;
 }
 
 .cont-gral-inicio {
@@ -254,7 +254,7 @@ body {
 .seccion-formulario {
   padding: 60px 20px;
 
-  background-color: #ffffff;
+  background-color: black;
 }
 
 .div-cont-formulario {
